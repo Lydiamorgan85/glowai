@@ -8,7 +8,7 @@ GlowAI is an advanced AI-powered skincare platform that provides personalized sk
 
 
 
-\## 🚀 Tech Stack
+\## 🚀 Tech Stack   
 
 
 
