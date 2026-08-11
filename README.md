@@ -1,4 +1,4 @@
-\# GlowAI - AI-Powered Skin Analysis Platform
+ GlowAI - AI-Powered Skin Analysis Platform
 
 
 
